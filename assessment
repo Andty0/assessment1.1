@@ -36,6 +36,9 @@
       aside {color: green;}
       aside a {color: rgb(220, 50, 47);}
       html {max-width: 800px;}
+      h1, h2, h3, aside h1, aside h2 {
+        padding-top: 50px;
+      }
 
     </style>
 
